@@ -1,9 +1,9 @@
 {
     "type": "package",
-    "name": "gampleman/elm-visualization",
+    "name": "elhanan7/elm-visualization",
     "summary": "A data visualization package for Elm",
     "license": "MIT",
-    "version": "2.0.2",
+    "version": "1.0.0",
     "exposed-modules": [
         "Scale",
         "Scale.Color",
